@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "hhttps://pubmed.ncbi.nlm.nih.gov/?term=vikram+shivakumar"
   googlescholar    : "https://scholar.google.com/citations?user=CsJK2y4AAAAJ&hl=en"
-  email            :
+  email            : "(first_name)[0] + (last_name)[:6] + str(1) (at) jhu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
