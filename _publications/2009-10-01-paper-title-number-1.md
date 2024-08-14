@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Analysis of whole chloroplast genomes from the genera of the Clauseneae, the curry tribe (Rutaceae, Citrus family)"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2017-curry-plastome
+excerpt: 'We sequenced the cholorplast genomes and constructed the phylogeny of the Clauseneae tribe, part of the Rutaceae (Citrus) family.'
+date: 2017-12
+venue: 'Molecular Phylogenetics and Evolution'
+paperurl: 'https://www.sciencedirect.com/science/article/am/pii/S1055790316304201'
+citation: '<b>Shivakumar, V. S.</b>, Appelhans, M. S., Johnson, G., Carlsen, M., & Zimmer, E. A. (2017). Analysis of whole chloroplast genomes from the genera of the Clauseneae, the curry tribe (Rutaceae, Citrus family). <i>Molecular phylogenetics and evolution</i>, 117, 135-140.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We sequenced the cholorplast genomes and constructed the phylogeny of the Clauseneae tribe, part of the Rutaceae (Citrus) family.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/am/pii/S1055790316304201)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Citation: <b>Shivakumar, V. S.</b>, Appelhans, M. S., Johnson, G., Carlsen, M., & Zimmer, E. A. (2017). Analysis of whole chloroplast genomes from the genera of the Clauseneae, the curry tribe (Rutaceae, Citrus family). <i>Molecular phylogenetics and evolution</i>, 117, 135-140.
