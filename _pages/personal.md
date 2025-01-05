@@ -9,7 +9,7 @@ author_profile: true
 
 <div style="display: flex; margin-bottom: 20px;">
     <div style="flex-shrink: 0; margin-right: 15px;">
-        <img src="../images/umpire.png" alt="me" height="300" style="width: auto;"/>
+        <img src="../images/umpire.png" alt="me" width="150"/>
     </div>
     <div style="display: flex; flex-direction: column; gap: 15px;">
         <div>
