@@ -5,6 +5,6 @@
 
 My academic website, build using [Academic Pages](https://github.com/academicpages/academicpages.github.io). 
 
-Website link: [vikshiv.github.io](vikshiv.github.io)
+Website link: [vikshiv.github.io](https://vikshiv.github.io)
 
 
