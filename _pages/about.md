@@ -1,11 +1,7 @@
 ---
 permalink: /
-<<<<<<< HEAD
 title: "Vikram Shivakumar - About me"
 excerpt: "About me"
-=======
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
->>>>>>> sync-release-v0.8.2
 author_profile: true
 redirect_from: 
   - /about/
