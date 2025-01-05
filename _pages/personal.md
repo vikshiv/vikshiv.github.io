@@ -17,7 +17,7 @@ author_profile: true
         </div>
         <div style="display: flex; gap: 15px; justify-content: center;">
             <div style="text-align: center; width: 250px;">
-                <img src="../images/buck.jpg" alt="bucknor" style="width: 100%; height: 257px; object-fit: cover;"/>
+                <img src="../images/buck.jpg" alt="bucknor" style="width: 100%; height: 257px; object-fit: cover; object-position: center 20%;"/>
                 <div style="font-size: 0.9em; margin-top: 5px;">with Steve Bucknor</div>
             </div>
             <div style="text-align: center; width: 257px;">
