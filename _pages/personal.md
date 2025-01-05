@@ -17,11 +17,11 @@ author_profile: true
         </div>
         <div style="display: flex; gap: 15px;">
             <div style="text-align: center;">
-                <img src="../images/buck.jpg" alt="bucknor" height="50" style="width: auto;"/>
+                <img src="../images/buck.jpg" alt="bucknor" height="315" style="width: auto;"/>
                 <div style="font-size: 0.9em; margin-top: 5px;">with Steve Bucknor</div>
             </div>
             <div style="text-align: center;">
-                <img src="../images/tauf.png" alt="taufel" height="50" style="width: auto;"/>
+                <img src="../images/tauf.png" alt="taufel" height="315" style="width: auto;"/>
                 <div style="font-size: 0.9em; margin-top: 5px;">with Simon Taufel</div>
             </div>
         </div>
