@@ -1,0 +1,30 @@
+---
+layout: archive
+title: "About Me"
+permalink: /personal/
+author_profile: true
+---
+
+## Cricket umpiring
+
+<div style="display: flex; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="../images/umpire.png" alt="me" width="150"/>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 15px;">
+        <div>
+            Outside of work, I am an aspiring cricket umpire. I am internationally certified (Level 3 - WICUA and <a href="https://usacusa.org" target="_blank">USACUSA</a>) and umpire around the Washington, D.C. area and east coast region. I was named <strong>Emerging Umpire of the Year - 2024</strong> 🏆 by the Washington Cricket League. I have stood in hundreds of matches from local and youth leagues to USA cricket selection tournaments and ICC sanctioned tournaments.
+        </div>
+        <div style="display: flex; gap: 15px;">
+            <img src="../images/buck.jpg" alt="bucknor" width="150"/>
+            <img src="../images/tauf.png" alt="taufel" width="150"/>
+        </div>
+    </div>
+</div>
+
+## Travel Highlights
+
+Some of my favorite places I've been (and some photos).
+<iframe src="https://www.google.com/maps/d/embed?mid=1TzrOtEELnJyQR4Vck3LnGvn-ACealAE&ehbc=2E312F" width="640" height="480"></iframe>
+
+
