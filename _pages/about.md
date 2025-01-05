@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Vikram Shivakumar, a PhD student at Johns Hopkins University, department of Computer Science. I am currently working under the supervision of [Dr. Ben Langmead](https://www.langmead-lab.org), working on developing efficient computational methods for genomic analysis.
+Hi! I'm Vikram Shivakumar, a PhD student at Johns Hopkins University (CS) with a NSF graduate research fellowship. I am currently working under the supervision of [Dr. Ben Langmead](https://www.langmead-lab.org), working on developing efficient computational methods for genomic analysis.
 
 A bit more about me
 ======
