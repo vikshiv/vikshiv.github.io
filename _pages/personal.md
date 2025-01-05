@@ -9,15 +9,21 @@ author_profile: true
 
 <div style="display: flex; margin-bottom: 20px;">
     <div style="flex-shrink: 0; margin-right: 15px;">
-        <img src="../images/umpire.png" alt="me" width="150"/>
+        <img src="../images/umpire.png" alt="me" height="300" style="width: auto;"/>
     </div>
     <div style="display: flex; flex-direction: column; gap: 15px;">
         <div>
             Outside of work, I am an aspiring cricket umpire. I am internationally certified (Level 3 - WICUA and <a href="https://usacusa.org" target="_blank">USACUSA</a>) and umpire around the Washington, D.C. area and east coast region. I was named <strong>Emerging Umpire of the Year - 2024</strong> 🏆 by the Washington Cricket League. I have stood in hundreds of matches from local and youth leagues to USA cricket selection tournaments and ICC sanctioned tournaments.
         </div>
         <div style="display: flex; gap: 15px;">
-            <img src="../images/buck.jpg" alt="bucknor" height="150" style="width: auto;"/>
-            <img src="../images/tauf.png" alt="taufel" height="150" style="width: auto;"/>
+            <div style="text-align: center;">
+                <img src="../images/buck.jpg" alt="bucknor" height="150" style="width: auto;"/>
+                <div style="font-size: 0.9em; margin-top: 5px;">with Steve Bucknor</div>
+            </div>
+            <div style="text-align: center;">
+                <img src="../images/tauf.png" alt="taufel" height="150" style="width: auto;"/>
+                <div style="font-size: 0.9em; margin-top: 5px;">with Simon Taufel</div>
+            </div>
         </div>
     </div>
 </div>
