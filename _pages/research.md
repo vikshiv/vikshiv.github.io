@@ -27,4 +27,7 @@ Nanopore sequencing generates reads by measuring electrical current signal that 
 - Software on [github](https://github.com/vikshiv/mumemto)
 - Preprint on [BioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.05.631388v1)
 
-<img src="../images/potato.png" alt="mumemto" align="left" style="margin-right: 15px;"/>
+<div style="text-align: center;">
+    <img src="../images/potato.png" alt="mumemto" style="margin: 0 auto;"/>
+    <div style="font-size: 0.9em; margin-top: 5px;">potato pangenome (<a href="https://www.nature.com/articles/s41586-024-08476-9">ref</a>)</div>
+</div>
