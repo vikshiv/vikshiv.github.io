@@ -16,9 +16,9 @@ Nanopore sequencing generates reads by measuring electrical current signal that 
 
 - [Sigmoni paper](https://doi.org/10.1093/bioinformatics/btae213) ([pdf](https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i287/58354790/btae213.pdf)), published in 2024 in Bioinformatics (ISMB 2024)
 
-- [RECOMB-seq talk](https://www.youtube.com/watch?v=Gzm2fMEtmUI), in Istanbul, Türkiye (April 2023) - 🏆 **RECOMB-seq Best Poster/Short Talk**
+- 🏆 **RECOMB-seq Best Poster/Short Talk** - [RECOMB-seq talk recording](https://www.youtube.com/watch?v=Gzm2fMEtmUI), in Istanbul, Türkiye (April 2023) 
 
-- [ISMB talk slides](http://vikshiv.github.io/files/sigmoni.pdf), in Montreal, Quebec (July 2024) - 🏆 **ISMB HitSeq Best Talk**
+- 🏆 **ISMB HitSeq Best Talk** - [ISMB talk recording](https://www.youtube.com/watch?v=S2lZv_ZH884) and [slides](http://vikshiv.github.io/files/sigmoni.pdf), in Montreal, Quebec (July 2024)
 
 ## Building and visualizing pangenomes
 
