@@ -11,7 +11,7 @@ Hi! I'm Vikram Shivakumar, a PhD student at Johns Hopkins University (CS) with a
 
 A bit more about me
 ======
-I grew up in northern Virginia, outside of Washington, D.C. I went to Thomas Jefforson High School for Science and Tech (2017), and obtained my B.S. in Bioengineering (minor in Computer Science) from the University of California, Berkeley (2020). I also recieved a M.S. in Biomedical Engineering from Johns Hopkins University (2023). 
+I grew up in northern Virginia, outside of Washington, D.C. I went to Thomas Jefferson High School for Science and Tech (2017), and obtained my B.S. in Bioengineering (minor in Computer Science) from the University of California, Berkeley (2020). I also recieved a M.S. in Biomedical Engineering from Johns Hopkins University (2023). 
 
 Research Background
 ======
