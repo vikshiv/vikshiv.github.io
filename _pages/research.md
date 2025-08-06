@@ -24,8 +24,14 @@ Nanopore sequencing generates reads by measuring electrical current signal that 
 
 <img src="../images/polaroid_tattoo.png" alt="mumemto" width="150" align="left" style="margin-right: 15px;"/> Pangenomes require an underlying alignment for interpretability and usability. This structure can take the form of a multiple alignment or graph, but these are impractical to compute. We developed a novel method, **Mumemto**, to compute maximal unique matches (multi-MUMs), commonly used as anchors for alignment, at the scale of hundreds of human genomes. Mumemto can visualize pangenome synteny (example below), accelerate graph construction, identify misassemblies, and even improve full-text index-based classification ([see further work](https://www.biorxiv.org/content/10.1101/2024.10.29.620953v1.full.pdf)).
 
+- [Mumemto paper (open access)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03644-0), published in 2025 in Genome Biology
+
+- 🏆 **ISMB EvolCompGen Best Poster** - [poster (large file, 25 MB)](http://vikshiv.github.io/files/mumemto_ismb_poster_a0.pdf), in Liverpool, UK (July 2025) 
+
+- Follow-up paper available on BioRxiv : [Partitioned Multi-MUM finding for scalable pangenomics](https://www.biorxiv.org/content/10.1101/2025.05.20.654611v1)
+
 - Software on [github](https://github.com/vikshiv/mumemto)
-- Preprint on [BioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.05.631388v1)
+
 
 <div style="text-align: center;">
     <img src="../images/potato.png" alt="mumemto" style="margin: 0 auto;"/>
