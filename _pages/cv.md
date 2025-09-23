@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Last updated: May 23, 2025
+Last updated: Aug 14, 2025
 
-<iframe src="/files/CV_VSS_May2025.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<iframe src="/files/CV_VSS_Aug2025.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
