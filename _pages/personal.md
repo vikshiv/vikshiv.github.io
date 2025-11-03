@@ -25,8 +25,8 @@ author_profile: true
                 <div style="font-size: 0.9em; margin-top: 5px;">with Simon Taufel</div>
             </div>
             <div style="text-align: center; width: 250px;">
-                <img src="../images/merion.jpg" alt="merion" style="width: 100%; height: 250px; object-fit: cover;"/>
-                <div style="font-size: 0.9em; margin-top: 5px;">at Merion Cricket Club</div>
+                <img src="../images/out.jpeg" alt="out" style="width: 100%; height: 250px; object-fit: cover;"/>
+                <div style="font-size: 0.9em; margin-top: 5px;">Howzat?</div>
             </div>
         </div>
     </div>
